@@ -1,14 +1,16 @@
-#Olá, meu nome é Ana Gomes #Bem vindos ao meu perfil! 
-#Hey, my name is Ana Gomes #Welcome to my GitHub!!
+Olá, meu nome é Ana Gomes e estou cursando Análise e Desenvolvimento de Sistemas. 
 
-#Curso Análise e Desenvolvimento de Sistemas na Uninter.
-
-## Ferramentas e tecnologias:          
-    Python
+## Atualmente estou aprendendo as linguagens:      
+  
+    Python 
+    
     JavaScript
-    PyCharm
+    
+## Cursos:
 
-
+    Programaria (Front-End I)
+    
+   
 ## Contatos:
 
 <div>
