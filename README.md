@@ -9,6 +9,7 @@ Olá, meu nome é Ana Gomes e estou cursando Análise e Desenvolvimento de Siste
 ## Cursos:
 
     Programaria (Front-End I)
+    Python - Fundação Bradesco
     
    
 ## Contatos:
