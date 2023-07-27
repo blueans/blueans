@@ -4,7 +4,11 @@ Olá, meu nome é Ana Gomes e estou cursando Análise e Desenvolvimento de Siste
   
     Python 
     
-    JavaScript
+    JavaScript 
+
+    CSS
+
+    HTML
     
 ## Cursos:
 
