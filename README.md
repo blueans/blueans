@@ -1,16 +1,18 @@
-Olá, meu nome é Ana Gomes e estou cursando Análise e Desenvolvimento de Sistemas. 
+Olá, meu nome é Ana Carolina Gomes, tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas.
 
 ## Atualmente estou aprendendo:     
   
     Python 
     
-    Front-End
+    HTML
 
-    Back-End
+    CSS
+
+    JavaScript
 
     Cybersegurança
     
-## Cursos:
+## Cursos completos:
 
     Programaria (Front-End I)
     Python - Fundação Bradesco
