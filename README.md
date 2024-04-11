@@ -10,9 +10,13 @@ Olá, meu nome é Ana Carolina Gomes, tenho 21 anos e estou cursando Análise e 
 
     JavaScript
 
-    Cybersegurança
+    Cybersegurança 
     
 ## Cursos completos:
 
     Programaria (Front-End I)
     Python - Fundação Bradesco
+
+##Formação:
+
+Estudante de Analise e Desenvolvimento de Sistemas
