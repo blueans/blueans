@@ -1,4 +1,4 @@
-Olá, meu nome é Ana Carolina Gomes, tenho 21 anos e estou cursando Análise e Desenvolvimento de Sistemas.
+Olá, meu nome é Ana Carolina Gomes, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas.
 
 ## Atualmente estou aprendendo:     
   
