@@ -19,4 +19,4 @@ Olá, meu nome é Ana Carolina Gomes, tenho 21 anos e estou cursando Análise e 
 
 ## Formação:
 
-Estudante de Analise e Desenvolvimento de Sistemas
+Estudante de Analise e Desenvolvimento de Sistemas - UNINTER.
