@@ -14,8 +14,10 @@ Olá, meu nome é Ana Carolina Gomes, tenho 22 anos e estou cursando Análise e 
     
 ## Cursos completos:
 
-    Programaria (Front-End I)
-    Python - Fundação Bradesco
+    Programaria (Front-End I).
+    Python - Fundação Bradesco.
+    Introdução a Cibersegurança - Cisco.
+    HTML5 e CSS3 - modulo 1 - Curso em Vídeo.
 
 ## Formação:
 
